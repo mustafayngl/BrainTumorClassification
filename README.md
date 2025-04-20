@@ -14,6 +14,8 @@ RMSProp (Root Mean Square Propagation)
 
 The system evaluates the impact of these optimizers on model training dynamics while maintaining focus on accurate tumor localization and classification. Experimental results demonstrate the feasibility of the proposed approach for medical image analysis, offering a framework for future advancements in AI-driven diagnostic tools.
 
+For this project [Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?resource=download) dataset was used from kaggle
+
 Contributors:
 
 [mustafayngl](https://github.com/mustafayngl)
