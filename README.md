@@ -12,7 +12,7 @@ SGDM (Stochastic Gradient Descent with Momentum)
 
 RMSProp (Root Mean Square Propagation)
 
-![Uploading Ekran görüntüsü 2025-04-17 212618.png…]()
+![Ekran görüntüsü 2025-04-17 212618](https://github.com/user-attachments/assets/713e4a54-76a5-4824-8a3c-72cbc27c0921)
 
 The system evaluates the impact of these optimizers on model training dynamics while maintaining focus on accurate tumor localization and classification. Experimental results demonstrate the feasibility of the proposed approach for medical image analysis, offering a framework for future advancements in AI-driven diagnostic tools.
 
